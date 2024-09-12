@@ -1,0 +1,6 @@
+[2024-09-12 11:03:34,762][__main__][INFO] - Found GPU with device_name NVIDIA GeForce RTX 4090. Will run RFdiffusion on NVIDIA GeForce RTX 4090
+[2024-09-12 11:03:34,763][rfdiffusion.inference.model_runners][INFO] - Reading checkpoint from /software/AMD/RFdiffusion/rfdiffusion/inference/../../models/Base_ckpt.pt
+[2024-09-12 11:03:37,526][rfdiffusion.inference.model_runners][INFO] - Loading checkpoint.
+[2024-09-12 11:03:37,651][rfdiffusion.diffusion][INFO] - Using cached IGSO3.
+[2024-09-12 11:03:37,666][__main__][INFO] - Making design output_dimer_ROG/partial_0
+[2024-09-12 11:03:37,678][rfdiffusion.inference.model_runners][INFO] - Using contig: ['114-114/0B1-128']

@@ -1,0 +1,5 @@
+- inference.output_prefix=output_dimer_ROG/partial
+- inference.input_pdb=dimer_ROG_186_1_unrelaxed_rank_001_alphafold2_multimer_v3_model_4_seed_000.pdb
+- inference.num_designs=1
+- contigmap.contigs=[114-114/0 B1-128]
+- diffuser.partial_T=20
